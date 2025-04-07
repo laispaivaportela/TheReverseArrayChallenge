@@ -6,7 +6,7 @@ package com.mycompany.thereversearraychallenge;
 
 /**
  *
- * @author laisp_omzy4s1
+ * @author ${user}
  */
 
 //The Reverse Array Challenge
