@@ -9,8 +9,7 @@ package com.mycompany.thereversearraychallenge;
  * @author laisp_omzy4s1
  */
 
-//TheReverseArrayChallenge
-
+//The Reverse Array Challenge
 import java.util.Arrays;
 import java.util.Scanner;
 
